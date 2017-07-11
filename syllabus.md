@@ -1,16 +1,13 @@
 ## Week 1: Introduction
 
-### Slides
-
-[Introduction](https://docs.google.com/presentation/d/1cBc9yX2wRSmQoOiG2viUHkZAsKI_dAB2VO3powLBt74/edit?usp=sharing)
-*Slides are on Google Slides, from where you can download a PPT or PDF version.*
-
 ### Readings
 
-Marti Hearst. 1999. [Untangling Text Data
+- Marti Hearst. 1999. [Untangling Text Data
 Mining](http://people.ischool.berkeley.edu/~hearst/papers/acl99/acl99-tdm.html).
 
-*For the first week, this reading is optional but recommended: it is short and will help set the tone for class.*
+### Slides
+
+- [Introduction](https://docs.google.com/presentation/d/1cBc9yX2wRSmQoOiG2viUHkZAsKI_dAB2VO3powLBt74/edit?usp=sharing)
 
 ### For Next Week
 
@@ -69,7 +66,7 @@ format on Github.
 
 ### Readings
 
-- [2.2.3](http://nlp.stanford.edu/IR-book/pdf/02voc.pdf)of Intro to IR: Normalization. If you missed 2.2.1 and 2.2.2 last week, catch up on those also.
+- [2.2.3](http://nlp.stanford.edu/IR-book/pdf/02voc.pdf) of Intro to IR: Normalization. If you missed 2.2.1 and 2.2.2 last week, catch up on those also.
 - [Term Weighting for
 Humanists](https://sense.porganized.com/term-weighting-for-humanists-bf2ed42628c8).
 Peter Organisciak.
