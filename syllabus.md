@@ -31,3 +31,20 @@ This course incorporated readings from a variety of sources. Readings will openl
 - [Introduction to Information Retrieval](http://nlp.stanford.edu/IR-book/information-retrieval-book.html) - Manning and Schutz, 2008
 - [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) 3rd edition. Dan Jurafsky and James H. Martin. 2017.
 - [Search Engines: Information Retrieval in Practice](http://ciir.cs.umass.edu/irbook/) - Croft, Metzler and Strohman. 2009.
+
+## Schedule
+
+- Week 1: Introduction
+- Week 2: Fundamentals
+- Week 3: Features
+- Week 4: Text Mining for Art and Criticism
+- Week 5: Documentation Access; Natural Language Processing 1 - Part of Speech Tagging
+- Week 6: Natural Language Processing 2 - Information Extraction and Dependency Parsing
+- Week 7: Classification 1
+- Week 8: Classification 2
+- Week 9: Clustering
+- Week 10: Topic Modeling and Dimensionality Reduction 1
+- Week 11:Topic Modelling 2; Sentiment Analysis
+- Week 12: Visualization
+- Week 13: Word Embeddings
+- Week 14: What's Next: Remainder Notes from Text Mining
