@@ -1,6 +1,8 @@
 # Text Mining
 
-## Course Description
+[Assignments](assignments.md) | [Lab Worksheets](https://github.com/organisciak/Text-Mining-Course/tree/master/labs) | [Syllabus](syllabus.md)
+
+## Overview
 
 This course introduces students to the knowledge discovery process and methods used to mine patterns from a collection of text. We will critically review text mining methods developed in the knowledge discovery and databases, information science, and computational linguistics communities. Students will develop proficiency with modeling text through individual projects.
 
@@ -15,7 +17,7 @@ A few final notes on course philosophy.
 
 First, the broad view of text mining can encompass many disciplinary approaches. This course hews closely to the sub-area referred to as text analysis, intended to treat text mining in the services of qualitative questions. This is closest to the treatments in the digital humanities and computational social sciences.
 
-For this course, you will be expect to learn new programming skills. Note that this is not a programming course. We will cover a subset of skills in Python that pertain to data science. Most of the time, your needs will be served by tinkering with and modifying code examples that I provide for you.
+For this course, you will be expected to learn new programming skills. Note that this is not a programming course. We will cover a subset of skills in Python that pertain to data science. Most of the time, your needs will be served by tinkering with and modifying code examples that I provide for you.
 
 I understand the time constraints of being a student. To account for the time you will spend in this course learning new tools and writing code, I have tried to keep reading and writing loads reasonable.
 
@@ -48,3 +50,21 @@ This course incorporated readings from a variety of sources. Readings will openl
 - Week 12: Visualization
 - Week 13: Word Embeddings
 - Week 14: What's Next: Remainder Notes from Text Mining
+
+The week-to-week syllabus, with readings, slides, and schedule notes is on the [Syllabus page](syllabus.md).
+
+## Assignments
+
+- 30% Lab Tasks - Due Weekly
+- 20% Small Assigments
+  - 10% - Twitter Bot Assignment
+  - 10% - Topic Modelling Assignment
+- 35% Text Mining Project
+ - 5% Problem Statement
+ - 5% Literature review + 5% Data collection
+ - 20% Final report
+- 15% Participation
+ - 5% Attendance
+ - 10% Forum posts, comments, class engagement
+ 
+ Details are on the [Assignments page](assignments.md).
