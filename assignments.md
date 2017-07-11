@@ -172,7 +172,7 @@ Post the final report on the submission forums, in one of the following ways:
 
 __Inspiration for writing__
 
-Share examples on the forums: Yun and I will post some too.
+Here's a list of good [writing about text or data mining](https://github.com/organisciak/Text-Mining-Course/blob/master/writing.md) for inspiration. Share your own examples on the forums.
 
 ## Participation
 
