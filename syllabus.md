@@ -1,99 +1,51 @@
-## Week 1: Introduction
+## Benchmark 1
 
 ### Readings
 
-- Marti Hearst. 1999. [Untangling Text Data
-Mining](http://people.ischool.berkeley.edu/~hearst/papers/acl99/acl99-tdm.html).
-
-### Slides
-
-- [Introduction](https://docs.google.com/presentation/d/1cBc9yX2wRSmQoOiG2viUHkZAsKI_dAB2VO3powLBt74/edit?usp=sharing)
-
-### For Next Week
-
-#### Homework
-
-Post a little bit about yourself in the Introductions forum, following the instructions there.
-
-#### Lab Task
-
-This week's lab task is mostly to play! It is intended to get
-you comfortable with out-of-the-box text analysis tools.
-
-Use [Voyant](https://voyant-tools.org)
-to visualize a text or set of texts. It can be anything you want: a
-book, a set of lyrics, scripts from a show you like, news articles.
-Try out the various features in Voyant: phrases, keywords in
-contexts, etc.
-
-Once you've had a chance to play with Voyant, *post a short response
-to the __lab task forum__
-(no more than 300 words) about your experience. Some possible things
-to post about: What was interesting or confusing about the tool? Did
-you find anything intriguing about your text or texts? Did it find
-any recurring patterns or phrases? Did you find any visualisations
-beyond the word cloud to be interesting? Any other thoughts? Don't
-forget to tell us what text you used with Voyant.
-
-## Week 2: Fundamentals
-
-*Just a reminder that 'readings' refer to the readings you should have done by the lecture, while lab tasks are done by next week. The intention is that they are both related to the current week's theme: readings prepare you for the lecture, and the lecture lets you practice that learning.*
-
-### Readings
-
--   Sections 4.1, 4.3, and 4.4 of [Search
-    Engines: Information Retrieval in
-    Practice](http://ciir.cs.umass.edu/irbook/) (Croft,
-    Metzler and Strohman). Starts on page 72.
--   Parts of Chapter 2, Introduction to Information Retrieval
-    (Manning, Raghavan,
-    Schütze): [Intro](http://nlp.stanford.edu/IR-book/html/htmledition/the-term-vocabulary-and-postings-lists-1.html), [Tokenization](http://nlp.stanford.edu/IR-book/html/htmledition/determining-the-vocabulary-of-terms-1.html), [Stop
+- Parts of Chapter 2, Introduction to Information Retrieval
+    (Manning, Raghavan, Schütze): [Intro](http://nlp.stanford.edu/IR-book/html/htmledition/the-term-vocabulary-and-postings-lists-1.html), [Tokenization](http://nlp.stanford.edu/IR-book/html/htmledition/determining-the-vocabulary-of-terms-1.html), [Stop
     lists](http://nlp.stanford.edu/IR-book/html/htmledition/dropping-common-terms-stop-words-1.html)
-
-### Slides
-
--   [Week 2:
-    Fundamentals](https://docs.google.com/presentation/d/18R7pWmc49PemCgAJ4020lgibNO1Hp1KdST08kd_a-d4/edit?usp=sharing)
-
-### For Next Week
-
-This week's lab task is about getting started with powerful tools that
-will underlie many of the skills you learn in the course. The lab task is posted in a [Jupyter
-notebook](labs/Lab%202.ipynb)
-format on Github.
-
-## Week 3: _Treating Text as Data_ - Features
-
-### Readings
-
+- Sections 4.1, 4.3, and 4.4 of [Search Engines: Information Retrieval in Practice](http://ciir.cs.umass.edu/irbook/) (Croft,
+    Metzler and Strohman). Starts on page 72.
 - [2.2.3](http://nlp.stanford.edu/IR-book/pdf/02voc.pdf) of Intro to IR: Normalization. If you missed 2.2.1 and 2.2.2 last week, catch up on those also.
 - [Term Weighting for
 Humanists](https://sense.porganized.com/term-weighting-for-humanists-bf2ed42628c8).
 Peter Organisciak.
 
-Supplemental:
-- [Term frequency and
-weighting](http://nlp.stanford.edu/IR-book/html/htmledition/term-frequency-and-weighting-1.html).
-Intro to IR.
-
 ### Slides
 
+- [Introduction](https://docs.google.com/presentation/d/1cBc9yX2wRSmQoOiG2viUHkZAsKI_dAB2VO3powLBt74/edit?usp=sharing)
+-   [Week 2:
+    Fundamentals](https://docs.google.com/presentation/d/18R7pWmc49PemCgAJ4020lgibNO1Hp1KdST08kd_a-d4/edit?usp=sharing)
 -   [Week 3:
     Features](https://docs.google.com/presentation/d/16jZxqi7zpZrOUA2z14aSpg8BPGJxSO9Qkb6rx4bZLLw/edit?usp=sharing)
+- [3.5 -
+Features Cont.](https://docs.google.com/presentation/d/1dljGL0QmjY-QJ9O-wpXeVgqk8lO12Klrm6EfgaEQsDg/edit?usp=sharing)
 
-### For Next Week
+#### Lab Tasks
 
-#### Lab Task
+1. Use [Voyant](https://voyant-tools.org)
+to visualize a text or set of texts. It can be anything you want: a
+book, a set of lyrics, scripts from a show you like, news articles.
+Try out the various features in Voyant: phrases, keywords in
+contexts, etc. *No submission*
 
-This week's lab task is again a series of questions, following along
+2. This week's lab task is about getting started with powerful tools that
+will underlie many of the skills you learn in the course. The lab task is posted in a [Jupyter
+notebook](labs/Lab%202.ipynb)
+format on Github.  *Ignore questions 1-3 if you're familiar with Jupyter*
+
+3. This week's lab task is again a series of questions, following along
 with a worksheet. Find it
 [here](labs/Lab%203.ipynb).
 
-## Week 4: Text Mining for Art and Criticism
+4. - [Lab 4
+    Worksheet](labs/Lab%204.ipynb).
 
-### Readings
 
--   [Liza Daly's Generative Blackout
+### Optional - Text Mining for Art and Criticism
+
+- [Liza Daly's Generative Blackout
     Poetry](http://waxy.org/2016/11/liza-dalys-generative-blackout-poetry/) -
     This work uses some simple language rules that will be useful in
     the future.
@@ -110,26 +62,9 @@ The following three readings are web articles related to Twitter bots: for activ
 -   Optional: [The Rise of Twitter
     Bots](http://www.newyorker.com/tech/elements/the-rise-of-twitter-bots)
 
-Slides
-
-- [3.5 -
-Features Cont.](https://docs.google.com/presentation/d/1dljGL0QmjY-QJ9O-wpXeVgqk8lO12Klrm6EfgaEQsDg/edit?usp=sharing)
 - [4.0 - Text Mining for Art and
 Criticism](https://docs.google.com/presentation/d/1FZmIQdS5cEuJEG7pudzHCI5iWxrWZb5yus4eT24tW_Y/edit?usp=sharing)
 
-Assignments
------------
-
-The Twitter Bot assignment is posted on the
-[Assignments](assignments.md) page.
-There is a draft posting next week (post about your plans) and the
-final is due in two weeks.
-
-### For Next Week
-
-- Submit Twitter bot draft
-- [Lab 4
-    Worksheet](labs/Lab%204.ipynb).
 
 ## Week 5.1: Document Access
 
