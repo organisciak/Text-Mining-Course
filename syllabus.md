@@ -69,7 +69,7 @@ Criticism](https://docs.google.com/presentation/d/1FZmIQdS5cEuJEG7pudzHCI5iWxrWZ
 ## Benchmark 2
 
 ### Topics
- - ## _Understanding Words_ - Natural Language Processing 1
+ - Natural Language Processing
  - Part of Speech Tagging
  
 ### Readings
