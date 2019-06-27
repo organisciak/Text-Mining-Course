@@ -66,16 +66,12 @@ The following three readings are web articles related to Twitter bots: for activ
 Criticism](https://docs.google.com/presentation/d/1FZmIQdS5cEuJEG7pudzHCI5iWxrWZb5yus4eT24tW_Y/edit?usp=sharing)
 
 
-## Week 5.1: Document Access
+## Benchmark 2
 
-### Readings
-
-[Against
-Cleaning](http://curatingmenus.org/articles/against-cleaning/) -
-Katie Rawson, Trevor Muñoz
-
-## Week 5.2: _Understanding Words_ - Natural Language Processing 1, Part of Speech Tagging
-
+### Topics
+ - ## _Understanding Words_ - Natural Language Processing 1
+ - Part of Speech Tagging
+ 
 ### Readings
 
 -   [Natural Language Processing for
@@ -94,22 +90,7 @@ Katie Rawson, Trevor Muñoz
         simply find it interesting. Section 7 is the conclusion of
         the chapter, which succinctly describes the ways that we
         understand a part of speech.
-
-### Slides
-
-[05 - Getting Data](https://docs.google.com/presentation/d/1N7qvqvTTxldbTiZ2tqx8OQBUq4dtD3PoUAEdwjD6FGc/edit?usp=sharing)
-
-### For Next Week
-
-Twitter bot: Post to the Twitter Bot Final forum.
-
-No lab task. Complete your bot!
-
-## Week 6: _Understanding Words_ - Natural Language Processing 2, Information Extraction and Dependency Parsing
-
-### Readings
-
-- *Information
+- - *Information
     Extraction*. Section 4.6 of [Search Engines: Information
     Retrieval in Practice](http://ciir.cs.umass.edu/irbook/) (Croft,
     Metzler and Strohman). Starts on page 113.
@@ -118,28 +99,25 @@ No lab task. Complete your bot!
     (up to and including section 21.2.3). Speech and Language
     Processing (3rd ed. draft).
 
-**Optional
-Reading**
-- [SyntaxNet Detailed
-    Tutorial](https://github.com/tensorflow/models/tree/master/syntaxnet#detailed-tutorial-building-an-nlp-pipeline-with-syntaxnet)
-    -   
-
-        Google's approach for dependency parsing, SyntaxNet, and
-        their model trained on it - Parsey McParseFace - are the
-        current state of the art. This tutorial, while optional,
-        offers a look at Part of Speech tagging using feed-forward
-        neural networks and has a nicely described description of
-        transition-based dependency parsing.
 
 ### Slides
 
-[06 - Natural Language Processing 1 - Part of Speech
+- [05 - Getting Data](https://docs.google.com/presentation/d/1N7qvqvTTxldbTiZ2tqx8OQBUq4dtD3PoUAEdwjD6FGc/edit?usp=sharing)
+- [06 - Natural Language Processing 1 - Part of Speech
 Tagging](https://docs.google.com/presentation/d/17psGonrrwj0R2DT-Nu34D5kpTP-jBEmthbIQKSeZG2Q/edit?usp=sharing)
 
-### For Next Week
+### Labs
 
 - [Worksheet for the Lab Task
 05](labs/Lab%2005%20-%20Part%20of%20Speech%20Tagging%2C%20Starting%20with%20Pandas.ipynb).
+
+## Benchmark 3 - In-progress
+
+### Topics
+
+- Classification
+- Sentiment Analysis
+
 
 ## Week 7: Classification 1
 
