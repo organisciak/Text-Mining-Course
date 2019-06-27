@@ -71,6 +71,8 @@ Criticism](https://docs.google.com/presentation/d/1FZmIQdS5cEuJEG7pudzHCI5iWxrWZ
 ### Topics
  - Natural Language Processing
  - Part of Speech Tagging
+- Classification
+- Sentiment Analysis
  
 ### Readings
 
@@ -98,35 +100,26 @@ Criticism](https://docs.google.com/presentation/d/1FZmIQdS5cEuJEG7pudzHCI5iWxrWZ
     Extraction](https://web.stanford.edu/~jurafsky/slp3/21.pdf)
     (up to and including section 21.2.3). Speech and Language
     Processing (3rd ed. draft).
-
+-  [Naive Bayes Classification and
+Sentiment](https://web.stanford.edu/~jurafsky/slp3/6.pdf), Speech
+and Language Processing (3rd edition). Dan Jurafsky and James H.
+Martin.
 
 ### Slides
 
 - [05 - Getting Data](https://docs.google.com/presentation/d/1N7qvqvTTxldbTiZ2tqx8OQBUq4dtD3PoUAEdwjD6FGc/edit?usp=sharing)
 - [06 - Natural Language Processing 1 - Part of Speech
 Tagging](https://docs.google.com/presentation/d/17psGonrrwj0R2DT-Nu34D5kpTP-jBEmthbIQKSeZG2Q/edit?usp=sharing)
-
+- [07 -
+Classification](https://docs.google.com/presentation/d/1u_VZgEK45u4zbbfxZKo_G-uztNvR0As_gfc5X2c2nU0/edit?usp=sharing)
+ - Includes material from: SLP v.3 slides (Jurafsky and Martin )
+ 
 ### Labs
 
 - [Worksheet for the Lab Task
 05](labs/Lab%2005%20-%20Part%20of%20Speech%20Tagging%2C%20Starting%20with%20Pandas.ipynb).
-
-## Benchmark 3 - In-progress
-
-### Topics
-
-- Classification
-- Sentiment Analysis
-
-
-## Week 7: Classification 1
-
-### Readings
-
- [Naive Bayes Classification and
-Sentiment](https://web.stanford.edu/~jurafsky/slp3/6.pdf), Speech
-and Language Processing (3rd edition). Dan Jurafsky and James H.
-Martin.
+- [Lab Task 06
+Worksheet](labs/Lab%2006%20-%20More%20Pandas%20and%20Intro%20to%20Classification.ipynb)
 
 **Notation**
 
@@ -149,19 +142,6 @@ the highest probability given the evidence. The equations simply
 need a way to state "consider P(c|d) for all possible classes and
 choose the class with the highest value", which they do
 with ![](images/c_argmax.png).
-
-### Slides
-
-- [07 -
-Classification](https://docs.google.com/presentation/d/1u_VZgEK45u4zbbfxZKo_G-uztNvR0As_gfc5X2c2nU0/edit?usp=sharing)
- - Includes material from: SLP v.3 slides (Jurafsky and Martin )
-
-### For Next Week
-
-- [Lab Task 06
-Worksheet](labs/Lab%2006%20-%20More%20Pandas%20and%20Intro%20to%20Classification.ipynb)
-
-### Week 8.1: Classification 2
 
 ### Week 8.2 Ethics in Text Mining
 
