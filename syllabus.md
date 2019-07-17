@@ -112,7 +112,7 @@ Martin.
 Tagging](https://docs.google.com/presentation/d/17psGonrrwj0R2DT-Nu34D5kpTP-jBEmthbIQKSeZG2Q/edit?usp=sharing)
 - [07 -
 Classification](https://docs.google.com/presentation/d/1u_VZgEK45u4zbbfxZKo_G-uztNvR0As_gfc5X2c2nU0/edit?usp=sharing)
- - Includes material from: SLP v.3 slides (Jurafsky and Martin )
+    - Credit: includes material from: SLP v.3 slides (Jurafsky and Martin )
  
 ### Labs
 
@@ -143,41 +143,16 @@ need a way to state "consider P(c|d) for all possible classes and
 choose the class with the highest value", which they do
 with ![](images/c_argmax.png).
 
-### Week 8.2 Ethics in Text Mining
+### Benchmark 3
 
-### Readings
 
-No required readings this week, focus on the lab task!
+### Topics
 
-**Optional Reading**
-
--   Brent Daniel Mittelstadt, Patrick Allo, Mariarosaria Taddeo,
-    Sandra Wachter, Luciano Floridi. 2016. "[The ethics of
-    algorithms: Mapping the
-    debate](http://journals.sagepub.com/doi/abs/10.1177/2053951716679679)". *Big
-    Data & Society. *Vol 3, Issue 2.
-    - Recent BBC2 Story (audio): [Controlling the Unaccountable
-Algorithm](http://www.bbc.co.uk/programmes/b085wj18)
-
-As with our class on art and criticism, some of the most accessible work on ethics is from the bot-making community.
-
--   [Bots Should Punch Up](https://www.crummy.com/2013/11/27/0)
--   [Ethical Bot Making](http://mewo2.com/notes/bot-ethics/)
--   [How to Make a Bot that Isn't
-    Racist](https://motherboard.vice.com/en_us/article/how-to-make-a-not-racist-bot)
-
-### Slides
-
-- [Week 08 - Classification
-2 and Ethics in Text Mining](https://docs.google.com/presentation/d/1TL4a0SGRcOHXmq4cKXs4dRY6ASDbr-V3vFHh0c_Nj-c/edit#slide=id.g1edffbd9d5_0_177)
- -  Includes material from: SLP v.3 slides (Jurafsky and Martin)
-
-### For Next Week
-
--   [Lab Task 7
-    Worksheet](labs/Lab%2007%20-%20Classification.ipynb)
-
-## Week 9: Clustering
+- Ethics
+- Clustering
+- Topic Modeling
+- Dimensionality Reduction
+- Sentiment Analysis
 
 ### Readings
 
@@ -187,101 +162,70 @@ As with our class on art and criticism, some of the most accessible work on ethi
 -   [Clustering](http://scikit-learn.org/stable/modules/clustering.html) -
     Sci-Kit Learn Documentation: Read *Overview* and the intros to
     2.3.2 (K-Means) and 2.3.6 (Hierarchical clustering)
+    
+- [Topic modeling made just simple enough.](https://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/) 2012.
+Ted Underwood.
 
-Supplemental Readings
+- [Probabilistic Topic Models](http://dl.acm.org/citation.cfm?id=2133826). 2012.
+David Blei.
 
--   [Cluster
+- [Narrative framing of consumer sentiment in online restaurant
+reviews](http://journals.uic.edu/ojs/index.php/fm/article/view/4944).
+Dan Jurafsky, Victor Chahuneau, Bryan R. Routledge, Noah A. Smith.
+
+- [Indexing by Latent Semantic
+Analysis](http://lsa.colorado.edu/papers/JASIS.lsi.90.pdf).
+Deerwester, Dumais, Furnas, Landauer, Harshman. *This is one of our core papers in Library and Information Science - 13k citations can't be wrong. You'll notice that these famous papers are particularly easy to read - a good reminder that being clever is only useful if you can communicate it.*
+
+### Slides
+
+- [Week 08 - Classification
+2 and Ethics in Text Mining](https://docs.google.com/presentation/d/1TL4a0SGRcOHXmq4cKXs4dRY6ASDbr-V3vFHh0c_Nj-c/edit#slide=id.g1edffbd9d5_0_177)
+ -  Includes material from: SLP v.3 slides (Jurafsky and Martin)
+- [Week 9 -
+Clustering](https://docs.google.com/presentation/d/1UnHbclWT--wxOPwEB5U9uqQ8GPKfliEEpVhQYsDrtJA/edit?usp=sharing)
+- [Topic Modeling
+Slides](https://docs.google.com/presentation/d/1X5NvF-CvTQk0jwhL74eUSu8u2QblastwkF6jTzzTkeM/edit?usp=sharing)
+
+### Labs
+
+- [Lab Task 7
+    Worksheet](labs/Lab%2007%20-%20Classification.ipynb)
+- [Lab 08
+Worksheet](labs/Lab%2008%20-%20Clustering.ipynb)
+- [Lab task 09 - Dimensionality Reduction and Sentiment
+Analysis](labs/Lab%209%20-%20Dimensionality%20Reduction%20and%20Sentiment%20Analysis.ipynb)
+
+### Supplemental Readings
+
+- [Cluster
     Analysis](http://www-users.cs.umn.edu/~kumar/dmbook/ch8.pdf) -
     Pang-Ning Tan, Michael Steinbach, Vipin Kumar. *Introduction to
     Data Mining*
--   [Beyond tokens: what character counts say about a
+- [Beyond tokens: what character counts say about a
     page](https://sense.porganized.com/beyond-tokens-what-character-counts-say-about-a-page-278d0ccea34c#.nmrtloz6i).
     Peter Organisciak
-
-### Slides
-
-[Week 9 -
-Clustering](https://docs.google.com/presentation/d/1UnHbclWT--wxOPwEB5U9uqQ8GPKfliEEpVhQYsDrtJA/edit?usp=sharing)
-
-### For the next two weeks
-
-[Lab 08
-Worksheet](labs/Lab%2008%20-%20Clustering.ipynb)
-
-## Spring Break Week
-
-Spring Break. No class.
-
-## Week 10: Topic Modeling and Dimensionality Reduction 1
-
-### Readings
-
-[](https://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/)[Topic
-modeling made just
-simple enough.](https://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/) 2012.
-Ted Underwood.
-
-[Probabilistic Topic
-Models](http://dl.acm.org/citation.cfm?id=2133826). 2012.
-David Blei.
-
-**Supplemental**
-
-[Introduction to Latent Dirichlet
+- [Introduction to Latent Dirichlet
 Allocation](http://blog.echen.me/2011/08/22/introduction-to-latent-dirichlet-allocation/). 2011.
 Edwin Chen.
-
-### Slides
-
-[Topic Modeling
-Slides](https://docs.google.com/presentation/d/1X5NvF-CvTQk0jwhL74eUSu8u2QblastwkF6jTzzTkeM/edit?usp=sharing)
-
-### For Next Week
-
-[Lab task 09 - Dimensionality Reduction and Sentiment
-Analysis](labs/Lab%209%20-%20Dimensionality%20Reduction%20and%20Sentiment%20Analysis.ipynb)
-
-*Recommended*: Get started on your topic modeling assignment. Make
-sure you can get MALLET running on your system.
 
 ### For Two Weeks from Now
 
 Topic Modeling Assignment Due. See description on the
 [Assignments](assignments.md) page.
 
-Post the Problem Statement for your Text Mining Project. See description on the [Assignments](assignments.md) page.
-
-
-## Week 11.1 Topic Modelling 2
-
-## Week 11.2 Sentiment Analysis
-
-### Readings
-
-[Narrative framing of consumer sentiment in online restaurant
-reviews](http://journals.uic.edu/ojs/index.php/fm/article/view/4944).
-Dan Jurafsky, Victor Chahuneau, Bryan R. Routledge, Noah A. Smith.
-
-**Optional but Recommended**
-
-[Indexing by Latent Semantic
-Analysis](http://lsa.colorado.edu/papers/JASIS.lsi.90.pdf).
-Deerwester, Dumais, Furnas, Landauer, Harshman.
-
-*This is one of our core papers in Library and Information Science - 13k citations can't be wrong. You'll notice that these famous papers are particularly easy to read - Chengzheng Zhai's smoothing paper is
-another example - a good reminder that being clever is only useful if you can communicate it.*
-
 ### Slides
 
 [Topic Modelling II and Sentiment
 Analysis](https://docs.google.com/presentation/d/1aRo0-Ho9auR751MDKYIE4HIedmnYzqyELFignJN05Yk/edit?usp=sharing)
 
+
+## Old Stuff
+
 ### For Next Week
 
 Topic Modeling Assignment Due. See description on
 the [Assignments](assignments.md) page.
-
-Post the Problem Statement for your Text Mining Project. See description on the [Assignments](assignments.md) page.
 
 ## Week 12: Visualization
 
