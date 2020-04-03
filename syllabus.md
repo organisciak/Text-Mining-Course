@@ -24,31 +24,24 @@ Features Cont.](https://docs.google.com/presentation/d/1dljGL0QmjY-QJ9O-wpXeVgqk
 
 #### Lab Tasks
 
-1. Use [Voyant](https://voyant-tools.org)
+1. Lab 1: Use [Voyant](https://voyant-tools.org)
 to visualize a text or set of texts. It can be anything you want: a
 book, a set of lyrics, scripts from a show you like, news articles.
 Try out the various features in Voyant: phrases, keywords in
 contexts, etc. *No submission*
 
-2. This week's lab task is about getting started with powerful tools that
-will underlie many of the skills you learn in the course. The lab task is posted in a [Jupyter
-notebook](labs/Lab%202.ipynb)
-format on Github.  *Ignore questions 1-3 if you're familiar with Jupyter*
+2. Lab 2: Thislab task is about getting started with powerful tools that
+will underlie many of the skills you learn in the course. The lab task is posted in an [notebook](labs/Lab%202.ipynb) - click 'Open in Colaboratory' at the top to interact with it.
+format on Github.  *Ignore questions 1-3 if you're familiar with Jupyter or Colab*
 
-3. This week's lab task is again a series of questions, following along
-with a worksheet. Find it
-[here](labs/Lab%203.ipynb).
+3. [Lab 3 Worksheet](labs/Lab%2003.ipynb).
 
-4. - [Lab 4
-    Worksheet](labs/Lab%204.ipynb).
-
+4. [Lab 4 Worksheet](labs/Lab%2004.ipynb).
 
 ### Optional - Text Mining for Art and Criticism
 
 - [Liza Daly's Generative Blackout
-    Poetry](http://waxy.org/2016/11/liza-dalys-generative-blackout-poetry/) -
-    This work uses some simple language rules that will be useful in
-    the future.
+    Poetry](http://waxy.org/2016/11/liza-dalys-generative-blackout-poetry/) - This work uses some simple language rules that will be useful in the future.
 
 The following three readings are web articles related to Twitter bots: for activism, for recontextualization, and a roundup of interesting bots. Not all of these are text related, but serve as a good overview.
 
@@ -64,7 +57,6 @@ The following three readings are web articles related to Twitter bots: for activ
 
 - [4.0 - Text Mining for Art and
 Criticism](https://docs.google.com/presentation/d/1FZmIQdS5cEuJEG7pudzHCI5iWxrWZb5yus4eT24tW_Y/edit?usp=sharing)
-
 
 ## Benchmark 2
 
@@ -116,8 +108,8 @@ Classification](https://docs.google.com/presentation/d/1u_VZgEK45u4zbbfxZKo_G-uz
  
 ### Labs
 
-- [Worksheet for the Lab Task
-05](labs/Lab%2005%20-%20Part%20of%20Speech%20Tagging%2C%20Starting%20with%20Pandas.ipynb).
+- [Lab Task 05 Worksheet
+05](labs/Lab 05 - Part of Speech Tagging, Starting with Pandas.ipynb).
 - [Lab Task 06
 Worksheet](labs/Lab%2006%20-%20More%20Pandas%20and%20Intro%20to%20Classification.ipynb)
 
@@ -144,7 +136,6 @@ choose the class with the highest value", which they do
 with ![](images/c_argmax.png).
 
 ### Benchmark 3
-
 
 ### Topics
 
@@ -220,7 +211,7 @@ Topic Modeling Assignment Due. See description on the
 Analysis](https://docs.google.com/presentation/d/1aRo0-Ho9auR751MDKYIE4HIedmnYzqyELFignJN05Yk/edit?usp=sharing)
 
 
-## Old Stuff
+## Old Stuff - No need to go further
 
 ### For Next Week
 
