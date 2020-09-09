@@ -2,6 +2,8 @@
 
 ### Readings
 
+- Marti Hearst. 1999. [Untangling Text Data
+Mining](http://people.ischool.berkeley.edu/~hearst/papers/acl99/acl99-tdm.html).
 - Parts of Chapter 2, Introduction to Information Retrieval
     (Manning, Raghavan, Schütze): [Intro](http://nlp.stanford.edu/IR-book/html/htmledition/the-term-vocabulary-and-postings-lists-1.html), [Tokenization](http://nlp.stanford.edu/IR-book/html/htmledition/determining-the-vocabulary-of-terms-1.html), [Stop
     lists](http://nlp.stanford.edu/IR-book/html/htmledition/dropping-common-terms-stop-words-1.html)
