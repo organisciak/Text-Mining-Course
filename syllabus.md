@@ -32,8 +32,8 @@ book, a set of lyrics, scripts from a show you like, news articles.
 Try out the various features in Voyant: phrases, keywords in
 contexts, etc. *No submission*
 
-2. Lab 2: Thislab task is about getting started with powerful tools that
-will underlie many of the skills you learn in the course. The lab task is posted in an [notebook](labs/Lab%202.ipynb) - click 'Open in Colaboratory' at the top to interact with it.
+2. Lab 2: This lab task is about getting started with powerful tools that
+will underlie many of the skills you learn in the course. The lab task is posted in an [notebook](labs/Lab%2002.ipynb) - click 'Open in Colaboratory' at the top to interact with it.
 format on Github.  *Ignore questions 1-3 if you're familiar with Jupyter or Colab*
 
 3. [Lab 3 Worksheet](labs/Lab%2003.ipynb).
