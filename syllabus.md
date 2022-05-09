@@ -95,7 +95,7 @@ Criticism](https://docs.google.com/presentation/d/1FZmIQdS5cEuJEG7pudzHCI5iWxrWZ
     (up to and including section 21.2.3). Speech and Language
     Processing (3rd ed. draft).
 -  [Naive Bayes Classification and
-Sentiment](https://web.stanford.edu/~jurafsky/slp3/6.pdf), Speech
+Sentiment](https://web.stanford.edu/~jurafsky/slp3/4.pdf), Speech
 and Language Processing (3rd edition). Dan Jurafsky and James H.
 Martin.
 
