@@ -76,8 +76,8 @@ Criticism](https://docs.google.com/presentation/d/1FZmIQdS5cEuJEG7pudzHCI5iWxrWZ
     -   This talks about an old concept, but is written from a
         beginner perspective and is useful for your assignment.
 -   [Part of Speech
-    Tagging ](https://web.stanford.edu/~jurafsky/slp3/10.pdf)- Chapter
-    10 (up to 10.4) of Speech and Language Processing (3rd ed.
+    Tagging ](https://web.stanford.edu/~jurafsky/slp3/8.pdf)- Chapter
+    10 (up to 8.4) of Speech and Language Processing (3rd ed.
     draft)
 -   [Chapter 5.7 of the NLTK
     Book](http://www.nltk.org/book/ch05.html) - Bird et. al
@@ -91,8 +91,8 @@ Criticism](https://docs.google.com/presentation/d/1FZmIQdS5cEuJEG7pudzHCI5iWxrWZ
     Retrieval in Practice](http://ciir.cs.umass.edu/irbook/) (Croft,
     Metzler and Strohman). Starts on page 113.
 - [Information
-    Extraction](https://web.stanford.edu/~jurafsky/slp3/21.pdf)
-    (up to and including section 21.2.3). Speech and Language
+    Extraction](https://web.stanford.edu/~jurafsky/slp3/17.pdf)
+    (up to and including section 17.2.3). Speech and Language
     Processing (3rd ed. draft).
 -  [Naive Bayes Classification and
 Sentiment](https://web.stanford.edu/~jurafsky/slp3/4.pdf), Speech
